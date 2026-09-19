@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+presage_smoke/.sdk/
+presage_smoke/build/
+presage_smoke/smoke_*.txt
+presage_smoke/smoke_last_run.log
